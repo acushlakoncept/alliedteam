@@ -1,0 +1,95 @@
+/**
+  * Color
+  * Border Color
+  * Background Color  
+*/
+
+/* Color
+-------------------------------------------------------------- */
+.flat-information > li:before,
+.flat-information > li > a:hover,
+.social-links a:hover,
+#mainnav > ul > li > a:hover, 
+#mainnav > ul > li.home > a,
+a:hover, a:focus,
+.iconbox .box-redmore,
+#flat-testimonials-flexslider .testimonial-author .author-name span,
+.footer-widgets ul.footer-info li:before,
+.widget.widget-recent-post ul li .content h3 a,
+.widget_tweets ul li:before,
+.widget_tweets ul li a,
+article .more-link a,
+article ul.meta-post li a:hover,
+.widget.widget_categories ul li a:hover,
+.widget.widget-recent-news ul li .text:before,
+.blog-pagination .flat-pagination li.prev a:hover, 
+.blog-pagination .flat-pagination li.next a:hover,
+.breadcrumbs ul li a:hover,
+.breadcrumbs ul li:before {
+	color: #9baec8;
+}
+
+.flat-button.bg-theme:hover {
+	color: #fff;
+}
+
+/* Border Color
+-------------------------------------------------------------- */
+.blog-carosuel.owl-theme .owl-dots .owl-dot.active span::before,
+#flat-testimonials-carousel ul li:first-child img,
+.flex-direction-nav a {
+	border-color: #9baec8;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus {
+	border-color: #9baec8;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+#mainnav > ul > li.home a:before,
+.flat-button-slider.bg-button-slider-32bfc0,
+.iconbox .box-header i,
+.flat-portfolio .item .overlay,
+.title-section .title:before,
+.owl-theme .owl-controls .owl-nav div,
+.iconbox .box-header i,
+.flat-button,
+article .post-comment,
+.blog-carosuel .content-post:after,
+.blog-carosuel.owl-theme .owl-dots .owl-dot:hover span,
+.requestform input[type="submit"],
+#flat-testimonials-flexslider blockquote::after,
+.flat-row.mail-chimp,
+.go-top,
+.flat-button-slider:hover,
+.owl-theme .owl-dots .owl-dot.active span, 
+.owl-theme .owl-dots .owl-dot:hover span,
+.sidebar .widget:after,
+.flex-direction-nav a,
+.widget.widget_tag .tag-list a.active, 
+.widget.widget_tag .tag-list a:hover,
+.blog-pagination .flat-pagination li.active,
+.blog-pagination .flat-pagination li a:hover,
+.accent-button a,
+.comments-area ol.comment-list article .reply .comment-reply-link,
+.comment-respond .comment-submit,
+#mainnav ul.submenu:before,
+#mainnav ul.submenu > li > a:hover,
+.blog-single .direction ul li ul.social-icons li a:hover {
+	background-color: #9baec8;
+}
